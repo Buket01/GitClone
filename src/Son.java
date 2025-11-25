@@ -1,6 +1,5 @@
 public class Son {
     String s = "hello";
-
-    Integer sayiYeni = 1234;
-
+    Integer sayi = 123;
+    String message = "Ben master branch'im";
 }
