@@ -1,6 +1,6 @@
 public class Son {
     String s = "hello";
 
-    Integer sayiYeni = 1234;
+    Integer sayiYeni = 999;
 
 }
